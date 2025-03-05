@@ -4,10 +4,19 @@
 
 This project is designed to [provide a brief description of what your project does]. It includes various sections such as:
 
-- **Apps:** [Describe what this section entails]
-- **Coming Soon:** [Details about upcoming features or sections]
-- **Highlights:** [Information on highlights or key features]
-- **Material You:** [Insights into Material Design aspects implemented]
+**Apps**:
+A collection of Android applications inspired by the Star Wars universe, developed using modern Android technologies such as Jetpack Compose and Material Design.
+
+**Coming Soon**:
+New features and improvements, including additional characters, improved UI animations, and expanded functionality for better user experience. Stay tuned for upcoming updates!
+
+**Highlights**:
+Uses Jetpack Compose for a modern UI approach.
+Implements Material You for a dynamic and adaptive interface.
+Features smooth animations and interactive elements inspired by the Star Wars aesthetic.
+Follows MVVM architecture for clean and scalable code.
+Material You:
+The app dynamically adapts to the system's color scheme, providing a personalized experience based on the user's theme preferences. It utilizes dynamic color extraction to enhance the Star Wars feel while maintaining Android's design principles.
 
 ## Features
 
